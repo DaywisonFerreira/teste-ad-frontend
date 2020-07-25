@@ -25,6 +25,10 @@ h2 {
     margin-top: 5px;
   }
 
+  span {
+    color: red;
+  }
+
   button {
     margin-top: 10px;
   }
